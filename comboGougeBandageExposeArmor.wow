@@ -1,0 +1,8 @@
+#showtooltip [mod:shift] Expose Armor; [mod:alt] Heavy Runecloth Bandage; Gouge
+/stand
+/cast [nomod] Gouge
+/stopattack
+/cast [mod:alt] Gouge
+/stopattack
+/use [mod:alt] Heavy Runecloth Bandage
+/cast [mod:shift] Expose Armor

@@ -1,0 +1,6 @@
+#showtooltip Sap
+/equip Catseye Ultra Goggles
+/cleartarget
+/targetenemyplayer
+/cast [harm, nodead] sap
+/stopattack
