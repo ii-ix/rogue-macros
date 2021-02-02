@@ -1,0 +1,5 @@
+#showtooltip [mod:shift] Slice and Dice; [mod:alt] Insignia of the Horde; Eviscerate
+/cast [nomod] Eviscerate
+/cast [mod:shift] Slice and Dice
+/equip [mod:alt] Insignia of the Horde
+/cast [mod:alt] Insignia of the Horde

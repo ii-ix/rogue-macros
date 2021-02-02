@@ -1,0 +1,8 @@
+#showtooltip [mod:shift] Rupture; [mod:alt] Defiler's Talisman; Sinister Strike
+/stand
+/cast [mod:shift] Rupture
+/cast [nomod] Riposte
+/cast Sinister Strike
+/startattack
+/equip [mod:alt] Defiler's Talisman
+/cast [mod:alt] Defiler's Talisman

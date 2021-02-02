@@ -1,0 +1,5 @@
+#showtooltip Garrote
+/targetenemyplayer
+/cast [harm, nodead] Garrote
+/stopattack
+/cast [nostealth] Stealth
